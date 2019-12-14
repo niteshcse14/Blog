@@ -1,2 +1,8 @@
-* Hi Guy's We are creating this blog for learning and also for your help.
-Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above
+### Design Pattern
+In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.
+
+##### Types of Design Patterns
+
+[Creational design patterns](https://github.com/niteshcse14/Blog/tree/master/Design%20Patterns/creational)
+[Structural design patterns](https://github.com/niteshcse14/Blog/tree/master/Design%20Patterns/structural)
+[Behavioral design patterns](https://github.com/niteshcse14/Blog/tree/master/Design%20Patterns/behavioral)
